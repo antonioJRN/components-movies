@@ -1,3 +1,5 @@
 export function Content() {
-  // Complete aqui
+  return (
+    <h1>a</h1>
+  );
 }
